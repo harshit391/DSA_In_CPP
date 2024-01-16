@@ -6,8 +6,23 @@
 
 using namespace std;
 
-int findIt(const vector<int>& arr) {
+int findIt(vector<int>& arr) {
 
+    int n = (int)arr.size();
+
+    for (int i=0; i<arr.size(); i++) {
+        while (arr[i] > 0 && arr[i]!=arr[arr[i]-1] && arr[i] < n) {
+            swap(arr[i], arr[arr[i]-1]);
+        }
+    }
+
+    for (int i=0; i<n; i++) {
+        if (arr[i]!=i+1) {
+            return i+1;
+        }
+    }
+
+    return n;
 
 }
 
