@@ -25,7 +25,7 @@ pair<int, int> subArray(const int arr[], int target, int k) {
         if (sum == target) {
             ans.first = start;
             ans.second = end;
-            break;
+            return ans;
         }
         end++;
     }
