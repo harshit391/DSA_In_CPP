@@ -11,4 +11,11 @@ add_executable(CPP main.cpp
         "January Files/12 Jan/RotatedKeyBinarySearch.cpp"
         "January Files/15 Jan/SearchLowestEvenNumber.cpp"
         "January Files/15 Jan/TwoSumBinarySearch.cpp"
-        "January Files/15 Jan/FirstMissingPositive.cpp")
+        "January Files/15 Jan/FirstMissingPositive.cpp"
+        "January Files/17 Jan/sortCharArray.cpp"
+        "January Files/17 Jan/StringToInteger.cpp"
+        "January Files/17 Jan/sortArray2.cpp"
+        "January Files/17 Jan/AddTwoString.cpp"
+        "January Files/18 Jan/firstandLastIndex.cpp"
+        "January Files/18 Jan/substringWithoutRepeating.cpp"
+)
