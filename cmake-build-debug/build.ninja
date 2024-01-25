@@ -49,12 +49,6 @@ cmake_ninja_workdir = C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$
 
 build cmake_object_order_depends_target_CPP: phony || CMakeFiles/CPP.dir
 
-build CMakeFiles/CPP.dir/main.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/main.cpp || cmake_object_order_depends_target_CPP
-  DEP_FILE = CMakeFiles\CPP.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\CPP.dir
-  OBJECT_FILE_DIR = CMakeFiles\CPP.dir
-
 build CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/10$ Jan/InsertInArray.cpp || cmake_object_order_depends_target_CPP
   DEP_FILE = CMakeFiles\CPP.dir\January_Files\10_Jan\InsertInArray.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
@@ -139,6 +133,42 @@ build CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj:
   OBJECT_DIR = CMakeFiles\CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\18_Jan
 
+build CMakeFiles/CPP.dir/January_Files/19_January/largest.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/19$ January/largest.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\19_January\largest.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\19_January
+
+build CMakeFiles/CPP.dir/January_Files/19_January/sort0123.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/19$ January/sort0123.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\19_January\sort0123.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\19_January
+
+build CMakeFiles/CPP.dir/January_Files/22_January/BubbleSort.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/22$ January/BubbleSort.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\22_January\BubbleSort.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\22_January
+
+build CMakeFiles/CPP.dir/January_Files/22_January/InsertionSort.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/22$ January/InsertionSort.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\22_January\InsertionSort.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\22_January
+
+build CMakeFiles/CPP.dir/January_Files/22_January/MaximumWindowWithSumk.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/22$ January/MaximumWindowWithSumk.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\22_January\MaximumWindowWithSumk.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\22_January
+
+build CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/22$ January/SelectionSort.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\22_January\SelectionSort.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\22_January
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP
@@ -147,7 +177,7 @@ build CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj:
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/main.cpp.obj CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj CMakeFiles/CPP.dir/January_Files/11_Jan/BinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/ReverseOrderBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedKeyBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/SearchLowestEvenNumber.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/TwoSumBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/FirstMissingPositive.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortCharArray.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/StringToInteger.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortArray2.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/AddTwoString.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/firstandLastIndex.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj CMakeFiles/CPP.dir/January_Files/11_Jan/BinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/ReverseOrderBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedKeyBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/SearchLowestEvenNumber.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/TwoSumBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/FirstMissingPositive.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortCharArray.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/StringToInteger.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortArray2.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/AddTwoString.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/firstandLastIndex.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/largest.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/sort0123.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/BubbleSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/InsertionSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/MaximumWindowWithSumk.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir

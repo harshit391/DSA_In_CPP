@@ -3,7 +3,7 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CPP main.cpp
+add_executable(CPP
         "January Files/10 Jan/InsertInArray.cpp"
         "January Files/11 Jan/BinarySearch.cpp"
         "January Files/12 Jan/ReverseOrderBinarySearch.cpp"
@@ -18,4 +18,10 @@ add_executable(CPP main.cpp
         "January Files/17 Jan/AddTwoString.cpp"
         "January Files/18 Jan/firstandLastIndex.cpp"
         "January Files/18 Jan/substringWithoutRepeating.cpp"
+        "January Files/19 January/largest.cpp"
+        "January Files/19 January/sort0123.cpp"
+        "January Files/22 January/BubbleSort.cpp"
+        "January Files/22 January/InsertionSort.cpp"
+        "January Files/22 January/MaximumWindowWithSumk.cpp"
+        "January Files/22 January/SelectionSort.cpp"
 )
