@@ -169,6 +169,66 @@ build CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\22_January
 
+build CMakeFiles/CPP.dir/January_Files/25_January/ThreeSum.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/January$ Files/25$ January/ThreeSum.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\January_Files\25_January\ThreeSum.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\January_Files\25_January
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/30_Jan/Or.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/30$ Jan/Or.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\30_Jan\Or.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\30_Jan
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/31_Jan/Xor.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/31$ Jan/Xor.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\31_Jan\Xor.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\31_Jan
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/bitWiseShifting.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/bitWiseShifting.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\bitWiseShifting.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/getBit.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/getBit.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\getBit.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/setBit.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/setBit.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\setBit.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/OddorEven.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/OddorEven.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\OddorEven.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/countSetBits.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/countSetBits.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\countSetBits.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/noOfTrailingZeroes.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/noOfTrailingZeroes.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\noOfTrailingZeroes.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
+build CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/noOfLeadingZeroes.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Harshit$ Singla/Desktop/2nd$ Year$ DataBase/4th$ Semester/DSA$ In$ CPP$ II/Bit$ Manipulation/1$ Feb/noOfLeadingZeroes.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb\noOfLeadingZeroes.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\Bit_Manipulation\1_Feb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP
@@ -177,7 +237,7 @@ build CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj: CXX_COM
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj CMakeFiles/CPP.dir/January_Files/11_Jan/BinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/ReverseOrderBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedKeyBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/SearchLowestEvenNumber.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/TwoSumBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/FirstMissingPositive.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortCharArray.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/StringToInteger.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortArray2.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/AddTwoString.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/firstandLastIndex.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/largest.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/sort0123.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/BubbleSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/InsertionSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/MaximumWindowWithSumk.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj CMakeFiles/CPP.dir/January_Files/11_Jan/BinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/ReverseOrderBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedKeyBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/SearchLowestEvenNumber.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/TwoSumBinarySearch.cpp.obj CMakeFiles/CPP.dir/January_Files/15_Jan/FirstMissingPositive.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortCharArray.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/StringToInteger.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/sortArray2.cpp.obj CMakeFiles/CPP.dir/January_Files/17_Jan/AddTwoString.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/firstandLastIndex.cpp.obj CMakeFiles/CPP.dir/January_Files/18_Jan/substringWithoutRepeating.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/largest.cpp.obj CMakeFiles/CPP.dir/January_Files/19_January/sort0123.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/BubbleSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/InsertionSort.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/MaximumWindowWithSumk.cpp.obj CMakeFiles/CPP.dir/January_Files/22_January/SelectionSort.cpp.obj CMakeFiles/CPP.dir/January_Files/25_January/ThreeSum.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/30_Jan/Or.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/31_Jan/Xor.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/bitWiseShifting.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/getBit.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/setBit.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/OddorEven.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/countSetBits.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/noOfTrailingZeroes.cpp.obj CMakeFiles/CPP.dir/Bit_Manipulation/1_Feb/noOfLeadingZeroes.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir
