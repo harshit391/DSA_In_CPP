@@ -1,3 +1,0 @@
-C:/Users/Harshit Singla/Desktop/2nd Year DataBase/4th Semester/DSA In CPP II/cmake-build-debug/CMakeFiles/CPP.dir
-C:/Users/Harshit Singla/Desktop/2nd Year DataBase/4th Semester/DSA In CPP II/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Harshit Singla/Desktop/2nd Year DataBase/4th Semester/DSA In CPP II/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-# ninja log v5
-6	702	7270045925315894	CMakeFiles/CPP.dir/main.cpp.obj	330684fc19fcfbd7
-17	3603	7270045954321451	CMakeFiles/CPP.dir/January_Files/15_Jan/SearchLowestEvenNumber.cpp.obj	e88f7a19c01373b2
-1	3702	7270045955315780	CMakeFiles/CPP.dir/January_Files/10_Jan/InsertInArray.cpp.obj	de3477c07109966a
-25	3547	7270045953765533	CMakeFiles/CPP.dir/January_Files/12_Jan/ReverseOrderBinarySearch.cpp.obj	a8af75682e760a1f
-13	3602	7270045954311475	CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedKeyBinarySearch.cpp.obj	3c68d7ed596af40
-21	3646	7270045954749992	CMakeFiles/CPP.dir/January_Files/11_Jan/BinarySearch.cpp.obj	b1806b1f493feca
-9	3665	7270045954860316	CMakeFiles/CPP.dir/January_Files/12_Jan/RotatedBinarySearch.cpp.obj	e1524fa2d1c2ae06
